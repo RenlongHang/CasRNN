@@ -1,7 +1,10 @@
+# Cascaded Recurrent Neural Networks for Hyperspectral Image Classification
+
 This code is a PyTorch implementation of the "Cascaded Recurrent Neural Networks for
 Hyperspectral Image Classification". 
 
 Please kindly cite the paper if this code is useful and helpful for your research.
+
 @ARTICLE{8662780,
   author={R. {Hang} and Q. {Liu} and D. {Hong} and P. {Ghamisi}},
   journal={IEEE Transactions on Geoscience and Remote Sensing}, 
